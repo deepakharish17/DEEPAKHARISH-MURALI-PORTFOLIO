@@ -66,9 +66,9 @@ The following credentials are already configured in `portfolio.html`:
 
 | Key | Value |
 |---|---|
-| Service ID | `service_408z7nb` |
-| Template ID | `template_qnxngeo` |
-| Public Key | `jS9pIzOuO10XVVMw1` |
+| Service ID | `##################` |
+| Template ID | `###################` |
+| Public Key | `##################` |
 
 To update them, search for `emailjs.init(` inside the file and replace the values.
 
